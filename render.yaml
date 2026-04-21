@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: telegram-bot
+    runtime: python
+    plan: starter
+    buildCommand: pip install --no-cache-dir -r requirements.txt
+    startCommand: python -u app.py
+    healthCheckPath: /
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_ID
+        sync: false
+      - key: WEBHOOK_PATH
+        value: /telegram
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: PIP_DISABLE_PIP_VERSION_CHECK
+        value: "1"
+      - key: DATA_DIR
+        value: /var/data
+    disk:
+      name: data
+      mountPath: /var/data
+      sizeGB: 1

@@ -1,11 +1,2 @@
-Flask[async]
-requests
-aiohttp
-googleapis-common-protos
-pycryptodome
-protobuf
-Werkzeug
-cachetools
-waitress
-python-dotenv
-gunicorn
+requests==2.32.3
+Flask==3.1.0

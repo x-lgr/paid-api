@@ -1,0 +1,25 @@
+{
+  "payment_mode": "manual",
+  "price": "49",
+  "payment_note": "Premium Access",
+  "payment_redirect_url": "https://redirect-beta-lemon.vercel.app/",
+  "upi_id": "xlgr@ptyes",
+  "merchant_mid": "",
+  "demo_link": "https://t.me/+_r0HQeCP4FU2NjBl",
+  "proof_link": "https://t.me/+aZLhKM68xsw0OTU1",
+  "target_channel_id": "",
+  "start_image": "https://i.ibb.co/rRBxL2MB/35500aa39ded.jpg",
+  "start_text": "𝗗𝗶𝗿𝗲𝗰𝘁 𝗣#𝗿𝗻 𝗩𝗶𝗱𝗲𝗼 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🌸\n\n𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 𝗞𝗲 𝗗𝗲𝗲𝘄𝗮𝗻ो 𝗞𝗲 𝗟𝗶𝘆𝗲 😋\n\nUS 𝗦𝗻#𝘀 𝗣𝘂𝗿𝗲 𝗗#𝘀𝗶 𝗠𝗮𝗮𝗹 😙\n\n𝟱𝟭𝟬𝟬𝟬+ 𝗿𝗮𝗿𝗲 𝗗#𝘀𝗶 𝗹𝗲#𝗸𝘀 𝗲𝘃𝗲𝗿.... 🎀\n\n𝗝𝘂𝘀𝘁 𝗽𝗮𝘆 𝗮𝗻𝗱 𝗴𝗲𝘁 𝗲𝗻𝘁𝗿𝘆...\n\n𝗗#𝗿𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗡𝗼 𝗟𝗶𝗻𝗸 - 𝗔𝗱𝘀 𝗦𝗵#𝘁 🔥\n\n𝗣𝗿𝗶𝗰𝗲 :- ₹49/-\n\n𝗩𝗮𝗹𝗶𝗱𝗶𝘁𝘆 :- 𝗹𝗶𝗳𝗲𝘁𝗶𝗺𝗲v",
+  "payment_text": "Scan the QR code or click the Pay ₹49 button to complete the payment.\nभुगतान करने के लिए QR कोड स्कैन करें या Pay ₹49 बटन पर क्लिक करें।\n\nAfter completing the payment, please send the screenshot or UTR number for verification.\nभुगतान पूर्ण करने के बाद कृपया स्क्रीनशॉट या UTR नंबर सत्यापन के लिए भेजें।",
+  "extra_channels": [],
+  "button_texts": {
+    "demo": "CHECK DEMO",
+    "proofs": "CHECK PROOFS",
+    "join_channel": "JOIN CHANNEL",
+    "premium": "BUY NOW",
+    "pay_now": "pay ₹49",
+    "verify_payment": "VERIFY PAYMENT",
+    "back": "BACK",
+    "private_link": "GET PRIVATE LINK"
+  }
+}

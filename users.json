@@ -1,0 +1,25 @@
+{
+  "users": {
+    "6627762162": {
+      "user_id": 6627762162,
+      "username": "Xlgr_158",
+      "full_name": "Xlgr #𝐓𝐄𝐀𝐌 XIKZON",
+      "state": "idle",
+      "last_seen": 1774674113
+    },
+    "7082733957": {
+      "user_id": 7082733957,
+      "username": "X4YXN",
+      "full_name": "EXHAUST #𝐓𝐄𝐀𝐌 XIKZON",
+      "state": "awaiting_manual_proof",
+      "last_seen": 1774671529
+    },
+    "6441953466": {
+      "user_id": 6441953466,
+      "username": "Parthvee",
+      "full_name": "Parthvee Meena",
+      "state": "idle",
+      "last_seen": 1774674397
+    }
+  }
+}
